@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Ürün 1 Ürün 1 Ürün 1 Ürün 1 Ürün 1 Ürün 1 Ürün 1 Ürün 1 Ürün 1 Ürün 1 Ürün 1 Ürün 1 ",
+    "price": "10.99",
+    "currency": "USD",
+    "rating": 4.0,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 2,
+    "name": "Ürün 2",
+    "price": "19.99",
+    "currency": "TL",
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 3,
+    "name": "Ürün 3",
+    "price": "8.49",
+    "currency": "TL",
+    "rating": 4.5,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 4,
+    "name": "Ürün 4",
+    "price": "14.99",
+    "currency": "TL",
+    "rating": 5,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 5,
+    "name": "Ürün 5",
+    "price": "7.99",
+    "currency": "TL",
+    "rating": 3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 6,
+    "name": "Ürün 6",
+    "price": "12.99",
+    "currency": "TL",
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 7,
+    "name": "Ürün 7",
+    "price": "9.99",
+    "currency": "TL",
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 8,
+    "name": "Ürün 8",
+    "price": "5.99",
+    "currency": "TL",
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 9,
+    "name": "Ürün 9",
+    "price": "11.99",
+    "currency": "TL",
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 10,
+    "name": "Ürün 10",
+    "price": "17.99",
+    "currency": "TL",
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 11,
+    "name": "Ürün 11",
+    "price": "6.49",
+    "currency": "TL",
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 12,
+    "name": "Ürün 12",
+    "price": "13.99",
+    "currency": "TL",
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 13,
+    "name": "Ürün 13",
+    "price": "9.49",
+    "currency": "TL",
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 14,
+    "name": "Ürün 14",
+    "price": "15.99",
+    "currency": "TL",
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  },
+  {
+    "id": 15,
+    "name": "Ürün 15",
+    "price": "7.49",
+    "currency": "TL",
+    "rating": 4.3,
+    "image": "https://picsum.photos/seed/picsum/400/300"
+  }
+]
